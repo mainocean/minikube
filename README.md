@@ -9,7 +9,7 @@ Minikube allows you to run a local Kubernetes cluster, making it easy to develop
 https://www.youtube.com/watch?v=QQbE_CUr8P4&list=PL62Nmy7ld-5bCC3PC5z6xVsGlCsl0NfW5&ab_channel=DevOps
 ```
 
-Need for install:
+# Need for install:
 
 ```
 kuberctl   https://kubernetes.io/releases/download/#binaries
@@ -20,14 +20,14 @@ https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.ex
 VirtualBox   https://www.virtualbox.org/wiki/Downloads
 ```
 
-Login:
+# Login:
 
 ```
 root     without password
 docker   pass:tcuser
 ```
 
-Manual with commands:
+# Manual with commands:
 
 ```
 minikube version
